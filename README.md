@@ -69,7 +69,7 @@ Although sample values have been anonymized and modified for security, the struc
 
 > 🔍 Developed in MySQL Workbench tool to visualize trends, priorities, cost variance, and order timelines.
 
-![Dashboard Overview](./images/dashboard_main.png)
+![Dashboard Overview](./images/maintenance_dashboard.png)
 
 
 ## 🚀 How to Use
