@@ -40,8 +40,6 @@ Tracks cost-related details for each maintenance order, including planned vs. ac
 🔧 job_details
 Provides a breakdown of assemblies and sub-assemblies involved in maintenance work for each equipment.
 
-🧾 About the Database
-This entire database is designed specifically to power an upcoming Power BI dashboard that provides deep insights into the maintenance performance of heavy earth-moving machinery (HEMM). It simulates real-world industrial conditions with highly relevant but modified values from the mining sector.
 
 
 ## 📥 Sample Data
