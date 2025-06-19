@@ -7,13 +7,13 @@ A complete SQL-based project to track and visualize preventive and corrective ma
 ## 📂 Project Structure
 
 ```
-equipment-maintenance-dashboard/
+Maintenance-Dashboard/
 ├── README.md                  ← this file
 ├── schema.sql                 ← table creation statements
 ├── sample_data.sql            ← sample insert data
 ├── dashboard_query.sql        ← all important analysis queries
 ├── images/                    ← contains dashboard and query preview images
-│   ├── dashboard_main.png
+│   ├── dashboard_preview.png
 │   ├── query_high_priority.png
 │   ├── query_cost_variance.png
 │   └── query_top_expensive.png
