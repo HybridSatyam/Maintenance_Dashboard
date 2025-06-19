@@ -56,4 +56,4 @@ SELECT * FROM maintenance_history;
 -- View Result
 SELECT * FROM maintenance_history;
 
-[View Maintenance History Image](https://github.com/HybridSatyam/Maintenance_Dashboard/blob/main/Images/Maintenance_history.png?raw=true)
+[View Maintenance History Image](https://github.com/HybridSatyam/Maintenance_Dashboard/blob/main/Images/Maintenance_history.png)
