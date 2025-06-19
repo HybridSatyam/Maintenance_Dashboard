@@ -67,7 +67,7 @@ Although sample values have been anonymized and modified for security, the struc
 
 > 🔍 Developed in MySQL Workbench tool to visualize trends, priorities, cost variance, and order timelines.
 
-![Dashboard Overview](https://github.com/HybridSatyam/Maintenance_Dashboard/blob/main/Maintenance_Dashboard.png?raw=true)
+![Dashboard Overview](https://github.com/HybridSatyam/Maintenance_Dashboard/blob/main/Maintenance_dashboard.png?raw=true)
 
 
 ## 🚀 How to Use
