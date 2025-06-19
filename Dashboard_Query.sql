@@ -53,5 +53,9 @@ JOIN maint_schedule ms ON ms.EQUIPMENT_ID = mo.EQUIPMENT_ID;
 -- View Result
 SELECT * FROM maintenance_history;
 
+-- View Result
+SELECT * FROM maintenance_history;
+
+-- 📊 Maintenance History Output
 ![Maintenance History](https://github.com/HybridSatyam/Maintenance_Dashboard/blob/main/images/Maintenance_history.png?raw=true)
 
