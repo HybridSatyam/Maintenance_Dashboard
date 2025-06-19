@@ -12,11 +12,11 @@ Maintenance-Dashboard/
 ├── schema.sql                 ← table creation statements
 ├── sample_data.sql            ← sample insert data
 ├── dashboard_query.sql        ← all important analysis queries
-├── images/                    ← contains dashboard and query preview images
-│   ├── dashboard_preview.png
-│   ├── query_high_priority.png
-│   ├── query_cost_variance.png
-│   └── query_top_expensive.png
+├── Images/                    ← contains dashboard and query preview images
+│   ├── Maintenance_dashboard.png
+│   ├── high_priority.png
+│   ├── Cost_variance.png
+│   └── Maintenance_history.png
 ```
 
 ---
