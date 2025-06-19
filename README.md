@@ -61,32 +61,23 @@ This entire database is designed specifically to power an upcoming Power BI dash
 This database is inspired by real-world industrial parameters, particularly from the HEMM (Heavy Earth Moving Machinery) and mining sector.
 Although sample values have been anonymized and modified for security, the structure and insights closely reflect practical scenarios encountered in field operations.
 
-
-
-## 📊 Dashboard Preview
-
-> 🔍 Developed in MySQL Workbench tool to visualize trends, priorities, cost variance, and order timelines.
-
-![Dashboard Overview](https://github.com/HybridSatyam/Maintenance_Dashboard/blob/main/Maintenance_dashboard.png?raw=true)
-
-
 ## 🚀 How to Use
 
 ### 1. Import the schema
 
 ```bash
-mysql -u your_user -p equipment_maintenance_dashboard < schema.sql
+mysql -u HybridSatyam -p Maintenance_Dashboard < Schema.sql
 ```
 
 ### 2. Load the sample data
 
 ```bash
-mysql -u your_user -p equipment_maintenance_dashboard < sample_data.sql
+mysql -u HybridSatyam -p Maintenance_Dashboard < Sample_data.sql
 ```
 
 ### 3. Run dashboard queries
 
-Use MySQL Workbench to test `dashboard_query.sql`
+Use MySQL Workbench to test `Dashboard_query.sql`
 
 ---
 
@@ -111,3 +102,9 @@ Hybrid Mechanical Engineer|Data Analyst
 ## 📎 License
 
 MIT License – free to use and contribute.
+
+## 📊 Dashboard Preview
+
+> 🔍 Developed in MySQL Workbench tool to visualize trends, priorities, cost variance, and order timelines.
+
+![Dashboard Overview](https://github.com/HybridSatyam/Maintenance_Dashboard/blob/main/Maintenance_dashboard.png?raw=true)
